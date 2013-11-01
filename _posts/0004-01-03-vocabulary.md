@@ -1,4 +1,4 @@
 * Null coalescence
 * Ternary operator
-* Bike shedding, yak shaving, race conditions
+* :bike: shedding, yak shaving, :racehorse: conditions
 * Project management

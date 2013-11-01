@@ -6,6 +6,6 @@ hide_title: true
 
 * Reading code
 * Establishing a development environment
-* Written (and oral) communication skills
+* :pencil: (and oral) communication skills
 * Taking criticism
-* Adhering to coding standards
+* Adhering to coding :hammer:
