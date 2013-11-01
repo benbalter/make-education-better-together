@@ -1,4 +1,5 @@
 * Identification
 * How to stay responsive
 * Where to get help
-* Problem solving
+* How to learn
+* Problem solving / self-modivation

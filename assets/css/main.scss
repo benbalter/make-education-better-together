@@ -114,6 +114,13 @@ table.apex-first tr td:first-child {
   font-weight: bold;
 }
 
+table.apex-header tr:first-child td {
+  font-family: "Apex New", $font-default;
+  font-weight: bold;
+  text-align: center;
+}
+
+
 table.squished tr td {
   padding: 1%;
 }

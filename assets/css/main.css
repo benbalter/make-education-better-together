@@ -1109,6 +1109,11 @@ table.apex-first tr td:first-child {
   font-family: "Apex New", "Helvetica Neue", Helvetica;
   font-weight: bold; }
 
+table.apex-header tr:first-child td {
+  font-family: "Apex New", "Helvetica Neue", Helvetica;
+  font-weight: bold;
+  text-align: center; }
+
 table.squished tr td {
   padding: 1%; }
 
