@@ -1,0 +1,10 @@
+{
+  "name": "make-education-better-together",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benbalter/make-education-better-together.git"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
