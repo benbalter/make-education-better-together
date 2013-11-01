@@ -1,4 +1,4 @@
-# Make government better, together
+# Make education better, together
 
 ## Requirements
 
