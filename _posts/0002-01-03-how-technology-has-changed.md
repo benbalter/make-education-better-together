@@ -2,7 +2,7 @@
 hide_title: true
 ---
 
-# How technology has **chanaged**
+# How technology has **changed**
 
 * The internet happened (and open source)
 * Desktop no longer distinct from internet

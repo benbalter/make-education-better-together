@@ -1,3 +1,4 @@
 * Identification
-* How to stay relevant
+* How to stay responsive
 * Where to get help
+* Problem solving
